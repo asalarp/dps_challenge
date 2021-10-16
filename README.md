@@ -1,6 +1,6 @@
 # DPS Challenge
 
-The repository dedicated to [**DPS challenge**]. 
+The repository is dedicated to **DPS challenge**. 
 |File Name|Explanation|
 |:---------:|:---------:
 |Mission1.ipynb|Contains code regarding visualization and prediction of the dataset|
